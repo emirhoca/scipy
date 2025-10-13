@@ -32,6 +32,7 @@ ODE solvers, and more.
 
 - **Stack Overflow:** https://stackoverflow.com/questions/tagged/scipy
 - **Source code:** https://github.com/scipy/scipy
+
 - **Contributing:** https://scipy.github.io/devdocs/dev/index.html
 - **Bug reports:** https://github.com/scipy/scipy/issues
 - **Code of Conduct:** https://docs.scipy.org/doc/scipy/dev/conduct/code_of_conduct.html

@@ -15,6 +15,7 @@ For building all the documentation artifacts for a release, run:
 make dist
 ```
 
+
 This will build SciPy in-place (to ensure the version is correct), build html
 and pdf docs as well as create a zip archive of the html docs that can easily
 be redistributed.

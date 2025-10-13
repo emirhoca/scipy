@@ -20,6 +20,7 @@ development version of SciPy to your current Python environment.
 Run a benchmark against currently checked-out SciPy version (don't record the
 result)::
 
+
     spin bench --submodule sparse.Arithmetic
 
 Compare change in benchmark results with another branch::

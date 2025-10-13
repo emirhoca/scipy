@@ -12,6 +12,7 @@ https://docs.scipy.org/doc/scipy/dev/conduct/code_of_conduct.html
 When submitting a pull request, we ask you to check the following:
 
 1. **Unit tests**, **documentation**, and **code style** are in order.
+
    For details, please read
    https://docs.scipy.org/doc/scipy/dev/hacking.html
 

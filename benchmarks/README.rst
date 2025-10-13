@@ -10,6 +10,7 @@ Benchmarking SciPy with Airspeed Velocity.
 Usage
 -----
 
+
 Airspeed Velocity manages building and Python environments by itself,
 unless told otherwise. Some of the benchmarking features in
 ``spin`` also tell ASV to use the SciPy compiled by

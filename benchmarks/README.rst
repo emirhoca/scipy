@@ -7,8 +7,6 @@ SciPy benchmarks
 Benchmarking SciPy with Airspeed Velocity.
 
 
-
-
 Usage
 -----
 

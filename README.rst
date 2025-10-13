@@ -26,6 +26,7 @@ ODE solvers, and more.
 
 - **Website:** https://scipy.org
 - **Documentation:** https://docs.scipy.org/doc/scipy/
+
 - **Development version of the documentation:** https://scipy.github.io/devdocs
 - **SciPy development forum:** https://discuss.scientific-python.org/c/contributor/scipy
 - **Stack Overflow:** https://stackoverflow.com/questions/tagged/scipy

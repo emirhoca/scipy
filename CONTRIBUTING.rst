@@ -8,6 +8,7 @@ any help you give. Note that a code of conduct applies to all spaces
 managed by the SciPy project, including issues and pull requests:
 https://docs.scipy.org/doc/scipy/dev/conduct/code_of_conduct.html
 
+
 When submitting a pull request, we ask you to check the following:
 
 1. **Unit tests**, **documentation**, and **code style** are in order.

@@ -22,7 +22,7 @@
 SciPy (pronounced "Sigh Pie") is an open-source software for mathematics,
 science, and engineering. It includes modules for statistics, optimization,
 integration, linear algebra, Fourier transforms, signal and image processing,
-ODE solvers, and more 2.
+ODE solvers, and more.
 
 - **Website:** https://scipy.org
 - **Documentation:** https://docs.scipy.org/doc/scipy/

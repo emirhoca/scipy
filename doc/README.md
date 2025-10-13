@@ -1,5 +1,6 @@
 # SciPy Documentation
 
+
 ## How work with the docs
 
 Have a look at

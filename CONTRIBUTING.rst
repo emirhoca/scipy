@@ -2,6 +2,7 @@
 SciPy pull request guidelines
 =============================
 
+
 Pull requests are always welcome, and the SciPy community appreciates
 any help you give. Note that a code of conduct applies to all spaces
 managed by the SciPy project, including issues and pull requests:

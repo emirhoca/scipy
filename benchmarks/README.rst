@@ -27,6 +27,7 @@ Compare change in benchmark results with another branch::
 
     spin bench --compare main --submodule sparse.Arithmetic
 
+
 Run ASV commands directly (note, this will not set env vars for ``ccache``
 and disabling BLAS/LAPACK multi-threading, as ``spin`` does)::
 

@@ -24,6 +24,7 @@ be redistributed.
 ## Layout of the docs in this repository
 
 - `source` is where most of the content lives.
+
   - `dev` contains the contributor and developer guides as well as the governance
     docs and the code of conduct.
   - `tutorial` contains all tutorial content.

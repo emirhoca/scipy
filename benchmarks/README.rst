@@ -14,7 +14,7 @@ Usage
 Airspeed Velocity manages building and Python environments by itself,
 unless told otherwise. Some of the benchmarking features in
 ``spin`` also tell ASV to use the SciPy compiled by
-``spin``. To run the benchmarks, you do not need to install a
+``spin``. To run the bencdhmarks, you do not need to install a
 development version of SciPy to your current Python environment.
 
 Run a benchmark against currently checked-out SciPy version (don't record the

@@ -110,9 +110,6 @@ jobs:
     # TODO: enable ILP64 once possible
     name: no pythran & sdist+wheel, full, py3.11/npPre, pip+pytest
     needs: get_commit_message
-    if: >
-      needs.get_commit_message.outputs.message == 1
-      && (github.repository == 'scipy/scipy' || github.repository == '')
     runs-on: windows-2025
     steps:
       - name: Checkout

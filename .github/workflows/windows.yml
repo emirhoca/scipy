@@ -2,8 +2,6 @@ name: Windows tests
 
 on:
   push:
-    branches:
-      - maintenance/**
   pull_request:
     branches:
       - main
